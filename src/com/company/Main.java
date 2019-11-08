@@ -6,7 +6,8 @@ public class Main {
 	// write your code here
 
         System.out.println("Hello my friend");
-
-
+        System.out.println("hi my brother");
+// TODO
+        //comprobar que el número es negativo
     }
 }
